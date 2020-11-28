@@ -10,3 +10,10 @@ The following steps are mainly involved :
 4. Glove embeddings
 5. Creating a LSTM architecture
 6. Training a stacked LSTM
+
+# Input
+Text data consiting of different sentences along with the labels. Labels represent a particular emoji representing the sentence.
+
+1.test_emoji.csv - for testing our model
+
+2.train_emoji.csv - for training our model
