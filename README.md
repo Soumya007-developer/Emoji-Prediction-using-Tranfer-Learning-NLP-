@@ -14,6 +14,5 @@ The following steps are mainly involved :
 # Input
 Text data consiting of different sentences along with the labels. Labels represent a particular emoji representing the sentence.
 
-1.test_emoji.csv - for testing our model
-
-2.train_emoji.csv - for training our model
+1. test_emoji.csv - for testing our model
+2. train_emoji.csv - for training our model
