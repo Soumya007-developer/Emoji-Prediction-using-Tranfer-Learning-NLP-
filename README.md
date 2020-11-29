@@ -17,5 +17,5 @@ Text data consiting of different sentences along with the labels. Labels represe
 1. test_emoji.csv - for testing our model
 2. train_emoji.csv - for training our model
 
-# Emoji_prediction.ipynb
+## Emoji_Prediction.ipynb
 This python script contains the code for both the models and their predictions.
