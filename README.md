@@ -19,3 +19,6 @@ Text data consiting of different sentences along with the labels. Labels represe
 
 ## Emoji_Prediction.ipynb
 This python script contains the code for both the models and their predictions.
+
+Also, I inferred that the accuracy of the model is more by using LSTM than RNN.
+
